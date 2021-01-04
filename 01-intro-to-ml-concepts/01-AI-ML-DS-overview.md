@@ -1,28 +1,4 @@
-<!-----
-NEW: Check the "Suppress top comment" option to remove this info from the output.
-
-Conversion time: 0.589 seconds.
-
-
-Using this Markdown file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β29
-* Tue Dec 08 2020 11:35:09 GMT-0800 (PST)
-* Source doc: Starbucks ML/Data Lifecycle Workshop (ML Say What?)
------>
-
-
-
 # The Machine Learning Lifecycle Outline
-
-
 
 *   High level introduction (15 minutes): 
     *   What is machine learning?
@@ -42,6 +18,11 @@ Conversion notes:
     *   What are the major sources of risk in an ML project?
     *   “Black box” vs interpretable models. 
     *   Data quality and bias.  
+
+* Training and Model Evaluation (15 minutes)
+    * Training vs Test vs Validation data
+    * Underfitting vs Overfitting
+    * (briefly) Choice of metrics for evaluation.
 
 *   What goes into making an ML product? (10 minutes)
     *   Name the parts of the ML lifecycle.

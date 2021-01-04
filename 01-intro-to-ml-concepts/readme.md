@@ -39,6 +39,13 @@ Finally, to close out the day, we'll look at a concrete (albeit simple) example 
     * The model training process
     * Underfitting and overfitting
 
+## A Critical Aside, The Command Line:
+
+If you are not already familiar with the command line interface for your computer (Terminal in MacOS and Linux, Powershell in Windows) then read one of these tutorials first.** The use of the command line is absolutely essential for developers of all kinds — from data science to web development. Becoming a proficient user of the command line interface (CLI) is of the utmost importance on your journey, even if it's not exactly a data science concept. **Do not skip this step.**
+
+* [Intro to Terminal for Mac and Linux](https://programminghistorian.org/en/lessons/intro-to-bash)
+* [Intro to Powershell for Windows](https://programminghistorian.org/en/lessons/intro-to-powershell)
+
 ## Suggested Courses on Pluralsight For Self Guided Study
 
 * [A good high level overview of Data Science, 1.5 hours total video](https://app.pluralsight.com/library/courses/data-science-big-picture/table-of-contents)
@@ -50,7 +57,7 @@ Finally, to close out the day, we'll look at a concrete (albeit simple) example 
 
 These selected readings are all examples of ML products that have been released into the wild or ML research that has been published. This is an incomplete selection, but it does provide examples of ML being used from a wide variety of domains and disciplines. 
 
-You may prefer to do some self-guided research into an area that ML is being applied that is of personal interest to you, which would be perfectly appropriate.
+You may prefer to do some self-guided research into an area that ML is being applied that is of personal interest to you, which would be perfectly appropriate. 
 
 * [Machine Learning for Weather Prediction at Google](https://ai.googleblog.com/2020/01/using-machine-learning-to-nowcast.html)
 * [Machine Learning Solves Protein Folding](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology)
