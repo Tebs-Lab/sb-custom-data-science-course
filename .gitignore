@@ -1,3 +1,13 @@
+## Specific to this repo
+
+10-neural-networks/04-convolutional-neural-networks/flowers_dataset/
+10-neural-networks/04-convolutional-neural-networks/pets_dataset/
+10-neural-networks/04-convolutional-neural-networks/MobileNetV2_features_test.npz
+10-neural-networks/04-convolutional-neural-networks/MobileNetV2_features_train.npz
+10-neural-networks/04-convolutional-neural-networks/saved_models/
+10-neural-networks/04-convolutional-neural-networks/resized/*
+10-neural-networks/04-convolutional-neural-networks/heatmaps/*
+
 
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks,macos
@@ -144,6 +154,9 @@ __pypackages__/
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid
+
+
+
 
 # SageMath parsed files
 *.sage.py
